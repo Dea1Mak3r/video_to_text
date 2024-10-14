@@ -1,3 +1,4 @@
+pip
 ffmpeg
 pydub
 vosk
